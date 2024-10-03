@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|c:\\users\\gabriel\\source\\repos\\eventapp\\eventapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|c:\\users\\gabriel\\source\\repos\\eventapp\\eventapp\\eventapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\eventapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|c:\\users\\gabriel\\source\\repos\\eventapp\\eventapp\\eventosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\eventosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|c:\\users\\gabriel\\source\\repos\\eventapp\\eventapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|c:\\users\\gabriel\\source\\repos\\eventapp\\eventapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|c:\\users\\gabriel\\source\\repos\\eventapp\\eventapp\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|c:\\users\\gabriel\\source\\repos\\eventapp\\eventapp\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|c:\\users\\gabriel\\source\\repos\\eventapp\\eventapp\\data\\eventosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\data\\eventosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|c:\\users\\gabriel\\source\\repos\\eventapp\\eventapp\\eventosapi.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FCC1D4E-8D18-4BF7-82BA-A1A783CE6A99}|EventApp\\EventApp.csproj|solutionrelative:eventapp\\eventosapi.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventApp",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\EventApp.csproj",
+              "RelativeDocumentMoniker": "EventApp\\EventApp.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\EventApp.csproj",
+              "RelativeToolTip": "EventApp\\EventApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T12:52:16.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\Dockerfile",
+              "RelativeDocumentMoniker": "EventApp\\Dockerfile",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\Dockerfile",
+              "RelativeToolTip": "EventApp\\Dockerfile",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-03T13:05:14.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\Program.cs",
+              "RelativeDocumentMoniker": "EventApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\Program.cs",
+              "RelativeToolTip": "EventApp\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:57:26.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EventApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\appsettings.json",
+              "RelativeToolTip": "EventApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T01:29:07.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\Data\\EventosDbContext.cs",
+              "RelativeDocumentMoniker": "EventApp\\Data\\EventosDbContext.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\Data\\EventosDbContext.cs",
+              "RelativeToolTip": "EventApp\\Data\\EventosDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:28:51.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventosAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\EventosAPI.csproj",
+              "RelativeDocumentMoniker": "EventApp\\EventosAPI.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\EventosAPI.csproj",
+              "RelativeToolTip": "EventApp\\EventosAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T02:02:43.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "EventApp\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\Models\\Evento.cs",
+              "RelativeToolTip": "EventApp\\Models\\Evento.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:28:18.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventosAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\EventosAPI.csproj",
+              "RelativeDocumentMoniker": "EventApp\\EventosAPI.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\EventosAPI.csproj",
+              "RelativeToolTip": "EventApp\\EventosAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T02:04:47.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "EventApp\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\EventApp\\EventApp\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "EventApp\\Controllers\\EventosController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv2kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:57:02.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
